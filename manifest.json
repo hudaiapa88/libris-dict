@@ -1,0 +1,220 @@
+{
+ "version": 1,
+ "packs": {
+  "tr": {
+   "sha256": "05738010c59eb99cefc913a0f3b266c44dbed9f76a1a8891f1c94b81e8fafa43",
+   "bytes": 26794511,
+   "parts": [
+    {
+     "ref": "tr-1",
+     "file": "tr.part0",
+     "bytes": 18874368
+    },
+    {
+     "ref": "tr-1",
+     "file": "tr.part1",
+     "bytes": 7920143
+    }
+   ]
+  },
+  "de": {
+   "sha256": "5001d78ae85a3486311d46a65673e87c25d3acec37a3e831ddf2087969a82b93",
+   "bytes": 54471808,
+   "parts": [
+    {
+     "ref": "de-1",
+     "file": "de.part0",
+     "bytes": 18874368
+    },
+    {
+     "ref": "de-1",
+     "file": "de.part1",
+     "bytes": 18874368
+    },
+    {
+     "ref": "de-2",
+     "file": "de.part2",
+     "bytes": 16723072
+    }
+   ]
+  },
+  "es": {
+   "sha256": "42b5bc0bc8bef0230a26ff00500504cc42c2510c3b9c431061b5e4f16295d5d6",
+   "bytes": 39973582,
+   "parts": [
+    {
+     "ref": "es-1",
+     "file": "es.part0",
+     "bytes": 18874368
+    },
+    {
+     "ref": "es-1",
+     "file": "es.part1",
+     "bytes": 18874368
+    },
+    {
+     "ref": "es-2",
+     "file": "es.part2",
+     "bytes": 2224846
+    }
+   ]
+  },
+  "fr": {
+   "sha256": "2f28b7a30f4d8527d930d3157186f7168292a2d6a18ede5768cda7ea9a6f5784",
+   "bytes": 91735578,
+   "parts": [
+    {
+     "ref": "fr-1",
+     "file": "fr.part0",
+     "bytes": 18874368
+    },
+    {
+     "ref": "fr-1",
+     "file": "fr.part1",
+     "bytes": 18874368
+    },
+    {
+     "ref": "fr-2",
+     "file": "fr.part2",
+     "bytes": 18874368
+    },
+    {
+     "ref": "fr-2",
+     "file": "fr.part3",
+     "bytes": 18874368
+    },
+    {
+     "ref": "fr-3",
+     "file": "fr.part4",
+     "bytes": 16238106
+    }
+   ]
+  },
+  "it": {
+   "sha256": "a0fb1a5ccef7e339cd3a41b296b8873fa31d3b59eccd133a1ed137ee18468484",
+   "bytes": 23149060,
+   "parts": [
+    {
+     "ref": "it-1",
+     "file": "it.part0",
+     "bytes": 18874368
+    },
+    {
+     "ref": "it-1",
+     "file": "it.part1",
+     "bytes": 4274692
+    }
+   ]
+  },
+  "pt": {
+   "sha256": "1b8d6c25fb72fcab81c9c007361959913284309e1627afa989ef2a922d8764bf",
+   "bytes": 20106890,
+   "parts": [
+    {
+     "ref": "pt-1",
+     "file": "pt.part0",
+     "bytes": 18874368
+    },
+    {
+     "ref": "pt-1",
+     "file": "pt.part1",
+     "bytes": 1232522
+    }
+   ]
+  },
+  "ru": {
+   "sha256": "d0d3506f15f89c5834e427dbae78295528a526cb34854cb436c2fb6f07191ba4",
+   "bytes": 84604806,
+   "parts": [
+    {
+     "ref": "ru-1",
+     "file": "ru.part0",
+     "bytes": 18874368
+    },
+    {
+     "ref": "ru-1",
+     "file": "ru.part1",
+     "bytes": 18874368
+    },
+    {
+     "ref": "ru-2",
+     "file": "ru.part2",
+     "bytes": 18874368
+    },
+    {
+     "ref": "ru-2",
+     "file": "ru.part3",
+     "bytes": 18874368
+    },
+    {
+     "ref": "ru-3",
+     "file": "ru.part4",
+     "bytes": 9107334
+    }
+   ]
+  },
+  "ja": {
+   "sha256": "85d8b7ca2113ffd2e68822a5162908aabfc59b04321184fc073079ffb29966d9",
+   "bytes": 16059315,
+   "parts": [
+    {
+     "ref": "ja-1",
+     "file": "ja.part0",
+     "bytes": 16059315
+    }
+   ]
+  },
+  "en": {
+   "sha256": "120ddf90f40322eedeef928e3703bb588bb7cb93f1fa74a789c4dbf455428c0f",
+   "bytes": 77076092,
+   "parts": [
+    {
+     "ref": "en-1",
+     "file": "en.part0",
+     "bytes": 18874368
+    },
+    {
+     "ref": "en-1",
+     "file": "en.part1",
+     "bytes": 18874368
+    },
+    {
+     "ref": "en-2",
+     "file": "en.part2",
+     "bytes": 18874368
+    },
+    {
+     "ref": "en-2",
+     "file": "en.part3",
+     "bytes": 18874368
+    },
+    {
+     "ref": "en-3",
+     "file": "en.part4",
+     "bytes": 1578620
+    }
+   ]
+  },
+  "ar": {
+   "sha256": "7bbc46be947bb403527693e4a2d13e6931769346f029dad8b8dbd3d4fdc3612d",
+   "bytes": 42159198,
+   "parts": [
+    {
+     "ref": "ar-1",
+     "file": "ar.part0",
+     "bytes": 18874368
+    },
+    {
+     "ref": "ar-1",
+     "file": "ar.part1",
+     "bytes": 18874368
+    },
+    {
+     "ref": "ar-2",
+     "file": "ar.part2",
+     "bytes": 4410462
+    }
+   ]
+  }
+ }
+}
